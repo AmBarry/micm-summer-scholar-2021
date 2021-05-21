@@ -5,3 +5,4 @@ This is a place to take notes for the summer scholar program
 Amadou
 
 Nikhil
+Never to live demos!
